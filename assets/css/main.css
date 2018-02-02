@@ -1,5 +1,6 @@
 @import url("https://use.fontawesome.com/releases/v5.0.6/css/all.css");
 @import url("https://fonts.googleapis.com/css?family=Merriweather:300,700,300italic,700italic|Source+Sans+Pro:900");
+@import url("https://fonts.googleapis.com/css?family=Nunito+Sans:300&subset=latin-ext");
 /*
 	Massively by HTML5 UP
 	html5up.net | @ajlkn
@@ -1287,7 +1288,7 @@ body {
   color: #212931; }
 
 body, input, select, textarea {
-  font-family: "Avenir Next", sans;
+  font-family: "Nunito Sans", sans-serif;
   font-weight: 300;
   font-size: 1rem;
   line-height: 2.375; }
@@ -1457,9 +1458,9 @@ button,
   border: 0;
   cursor: pointer;
   display: inline-block;
-  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  /*font-family: _font(family-heading);
   font-size: 0.8rem;
-  font-weight: 900;
+  font-weight: _font(weight-heading); */
   letter-spacing: 0.075em;
   height: 3rem;
   line-height: 3rem;
@@ -1591,6 +1592,11 @@ button,
     button.special:hover,
     .button.special:hover {
       background-color: #b6723f; }
+
+#special {
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  font-size: 0.8rem;
+  font-weight: 900; }
 
 /* Form */
 form {
@@ -1746,7 +1752,7 @@ input[type="radio"] {
     display: inline-block;
     font-size: 1rem;
     letter-spacing: 0;
-    font-family: "Avenir Next", sans;
+    font-family: "Nunito Sans", sans-serif;
     text-transform: none;
     font-weight: 300;
     padding-left: 2.8rem;
@@ -1849,16 +1855,9 @@ input[type="radio"]:focus + label:before {
 
 /* Icon */
 .icon {
-  text-decoration: none;
+  /*@include icon;*/
   border-bottom: none;
   position: relative; }
-  .icon:before {
-    -moz-osx-font-smoothing: grayscale;
-    -webkit-font-smoothing: antialiased;
-    font-family: FontAwesome;
-    font-style: normal;
-    font-weight: normal;
-    text-transform: none !important; }
   .icon > .label {
     display: none; }
 
