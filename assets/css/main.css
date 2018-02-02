@@ -2249,7 +2249,8 @@ table.alt tbody tr td {
     background-position: center,								center,														top center;
     background-repeat: repeat,								no-repeat,													no-repeat;
     background-attachment: scroll,								scroll,														scroll;
-    z-index: -1; }
+    z-index: -1;
+    opacity: 0.3; }
     #wrapper > .bg.fixed {
       position: fixed;
       width: 100vw;
