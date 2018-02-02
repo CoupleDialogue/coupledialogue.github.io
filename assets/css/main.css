@@ -1287,7 +1287,7 @@ body {
   color: #212931; }
 
 body, input, select, textarea {
-  font-family: "Merriweather", Georgia, serif;
+  font-family: "Avenir Next", sans;
   font-weight: 300;
   font-size: 1rem;
   line-height: 2.375; }
@@ -1746,7 +1746,7 @@ input[type="radio"] {
     display: inline-block;
     font-size: 1rem;
     letter-spacing: 0;
-    font-family: "Merriweather", Georgia, serif;
+    font-family: "Avenir Next", sans;
     text-transform: none;
     font-weight: 300;
     padding-left: 2.8rem;
