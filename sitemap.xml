@@ -3,7 +3,7 @@
   
   
     <url>
-      <loc>www.porukonsultavimas.lt/atsitraukimai/</loc>
+      <loc>http://localhost:4000/atsitraukimai/</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -13,67 +13,7 @@
      </url>
   
     <url>
-      <loc>www.porukonsultavimas.lt/blog1/</loc>
-       <lastmod>2017-11-02T00:00:00+01:00</lastmod>
-      
-       <changefreq>weekly</changefreq>
-      
-       <priority>1.0</priority>
-      
-     </url>
-  
-    <url>
-      <loc>www.porukonsultavimas.lt/elements/</loc>
-       <lastmod>2017-11-02T00:00:00+01:00</lastmod>
-      
-       <changefreq>weekly</changefreq>
-      
-       <priority>0.7</priority>
-      
-     </url>
-  
-    <url>
-      <loc>www.porukonsultavimas.lt/</loc>
-       <lastmod>2017-11-02T00:00:00+01:00</lastmod>
-      
-       <changefreq>weekly</changefreq>
-      
-       <priority>1.0</priority>
-      
-     </url>
-  
-    <url>
-      <loc>www.porukonsultavimas.lt/individualiai/</loc>
-       <lastmod>2017-11-10T00:20:35+00:00</lastmod>
-      
-       <changefreq>weekly</changefreq>
-      
-       <priority>0.5</priority>
-      
-     </url>
-  
-    <url>
-      <loc>www.porukonsultavimas.lt/konsultantai/</loc>
-       <lastmod>2017-11-10T00:20:35+00:00</lastmod>
-      
-       <changefreq>weekly</changefreq>
-      
-       <priority>0.5</priority>
-      
-     </url>
-  
-    <url>
-      <loc>www.porukonsultavimas.lt/medium/</loc>
-       <lastmod>2017-11-02T00:00:00+01:00</lastmod>
-      
-       <changefreq>weekly</changefreq>
-      
-       <priority>1.0</priority>
-      
-     </url>
-  
-    <url>
-      <loc>www.porukonsultavimas.lt/modelis/</loc>
+      <loc>http://localhost:4000/en/consultants/</loc>
        <lastmod>2017-01-30T00:00:00+01:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -83,7 +23,7 @@
      </url>
   
     <url>
-      <loc>www.porukonsultavimas.lt/mokymai/</loc>
+      <loc>http://localhost:4000/en/couples/</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -93,7 +33,37 @@
      </url>
   
     <url>
-      <loc>www.porukonsultavimas.lt/porai/</loc>
+      <loc>http://localhost:4000/elements/</loc>
+       <lastmod>2017-11-02T00:00:00+01:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>0.7</priority>
+      
+     </url>
+  
+    <url>
+      <loc>http://localhost:4000/</loc>
+       <lastmod>2017-11-02T00:00:00+01:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>1.0</priority>
+      
+     </url>
+  
+    <url>
+      <loc>http://localhost:4000/en/</loc>
+       <lastmod>2017-11-02T00:00:00+01:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>1.0</priority>
+      
+     </url>
+  
+    <url>
+      <loc>http://localhost:4000/en/individual/</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -103,7 +73,17 @@
      </url>
   
     <url>
-      <loc>www.porukonsultavimas.lt/publikacijos/</loc>
+      <loc>http://localhost:4000/individualiai/</loc>
+       <lastmod>2017-11-10T00:20:35+00:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>0.5</priority>
+      
+     </url>
+  
+    <url>
+      <loc>http://localhost:4000/konsultantai/</loc>
        <lastmod>2017-01-30T00:00:00+01:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -113,7 +93,37 @@
      </url>
   
     <url>
-      <loc>www.porukonsultavimas.lt/sitemap.xml</loc>
+      <loc>http://localhost:4000/en/media/</loc>
+       <lastmod>2017-01-30T00:00:00+01:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>0.7</priority>
+      
+     </url>
+  
+    <url>
+      <loc>http://localhost:4000/medium/</loc>
+       <lastmod>2017-11-02T00:00:00+01:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>1.0</priority>
+      
+     </url>
+  
+    <url>
+      <loc>http://localhost:4000/modelis/</loc>
+       <lastmod>2017-01-30T00:00:00+01:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>0.7</priority>
+      
+     </url>
+  
+    <url>
+      <loc>http://localhost:4000/mokymai/</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -123,7 +133,7 @@
      </url>
   
     <url>
-      <loc>www.porukonsultavimas.lt/supervizijos/</loc>
+      <loc>http://localhost:4000/porai/</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -133,7 +143,17 @@
      </url>
   
     <url>
-      <loc>www.porukonsultavimas.lt/feed.xml</loc>
+      <loc>http://localhost:4000/publikacijos/</loc>
+       <lastmod>2017-01-30T00:00:00+01:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>0.7</priority>
+      
+     </url>
+  
+    <url>
+      <loc>http://localhost:4000/en/retreats/</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -143,7 +163,57 @@
      </url>
   
     <url>
-      <loc>www.porukonsultavimas.lt/feed.xslt.xml</loc>
+      <loc>http://localhost:4000/sitemap.xml</loc>
+       <lastmod>2017-11-10T00:20:35+00:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>0.5</priority>
+      
+     </url>
+  
+    <url>
+      <loc>http://localhost:4000/en/supervision/</loc>
+       <lastmod>2017-11-10T00:20:35+00:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>0.5</priority>
+      
+     </url>
+  
+    <url>
+      <loc>http://localhost:4000/supervizijos/</loc>
+       <lastmod>2017-11-10T00:20:35+00:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>0.5</priority>
+      
+     </url>
+  
+    <url>
+      <loc>http://localhost:4000/en/training/</loc>
+       <lastmod>2017-11-10T00:20:35+00:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>0.5</priority>
+      
+     </url>
+  
+    <url>
+      <loc>http://localhost:4000/robots.txt</loc>
+       <lastmod>2017-11-10T00:20:35+00:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>0.5</priority>
+      
+     </url>
+  
+    <url>
+      <loc>http://localhost:4000/feed.xml</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
