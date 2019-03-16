@@ -3,7 +3,7 @@
   
   
     <url>
-      <loc>http://localhost:4000/atsitraukimai/</loc>
+      <loc>coupledialogue.com/atsitraukimai/</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -13,7 +13,7 @@
      </url>
   
     <url>
-      <loc>http://localhost:4000/en/consultants/</loc>
+      <loc>coupledialogue.com/en/consultants/</loc>
        <lastmod>2017-01-30T00:00:00+01:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -23,7 +23,7 @@
      </url>
   
     <url>
-      <loc>http://localhost:4000/en/couples/</loc>
+      <loc>coupledialogue.com/en/couples/</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -33,7 +33,7 @@
      </url>
   
     <url>
-      <loc>http://localhost:4000/elements/</loc>
+      <loc>coupledialogue.com/elements/</loc>
        <lastmod>2017-11-02T00:00:00+01:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -43,17 +43,7 @@
      </url>
   
     <url>
-      <loc>http://localhost:4000/</loc>
-       <lastmod>2017-11-02T00:00:00+01:00</lastmod>
-      
-       <changefreq>weekly</changefreq>
-      
-       <priority>1.0</priority>
-      
-     </url>
-  
-    <url>
-      <loc>http://localhost:4000/en/</loc>
+      <loc>coupledialogue.com/</loc>
        <lastmod>2017-11-02T00:00:00+01:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -63,47 +53,7 @@
      </url>
   
     <url>
-      <loc>http://localhost:4000/en/individual/</loc>
-       <lastmod>2017-11-10T00:20:35+00:00</lastmod>
-      
-       <changefreq>weekly</changefreq>
-      
-       <priority>0.5</priority>
-      
-     </url>
-  
-    <url>
-      <loc>http://localhost:4000/individualiai/</loc>
-       <lastmod>2017-11-10T00:20:35+00:00</lastmod>
-      
-       <changefreq>weekly</changefreq>
-      
-       <priority>0.5</priority>
-      
-     </url>
-  
-    <url>
-      <loc>http://localhost:4000/konsultantai/</loc>
-       <lastmod>2017-01-30T00:00:00+01:00</lastmod>
-      
-       <changefreq>weekly</changefreq>
-      
-       <priority>0.7</priority>
-      
-     </url>
-  
-    <url>
-      <loc>http://localhost:4000/en/media/</loc>
-       <lastmod>2017-01-30T00:00:00+01:00</lastmod>
-      
-       <changefreq>weekly</changefreq>
-      
-       <priority>0.7</priority>
-      
-     </url>
-  
-    <url>
-      <loc>http://localhost:4000/medium/</loc>
+      <loc>coupledialogue.com/en/</loc>
        <lastmod>2017-11-02T00:00:00+01:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -113,7 +63,27 @@
      </url>
   
     <url>
-      <loc>http://localhost:4000/modelis/</loc>
+      <loc>coupledialogue.com/en/individual/</loc>
+       <lastmod>2017-11-10T00:20:35+00:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>0.5</priority>
+      
+     </url>
+  
+    <url>
+      <loc>coupledialogue.com/individualiai/</loc>
+       <lastmod>2017-11-10T00:20:35+00:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>0.5</priority>
+      
+     </url>
+  
+    <url>
+      <loc>coupledialogue.com/konsultantai/</loc>
        <lastmod>2017-01-30T00:00:00+01:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -123,27 +93,7 @@
      </url>
   
     <url>
-      <loc>http://localhost:4000/mokymai/</loc>
-       <lastmod>2017-11-10T00:20:35+00:00</lastmod>
-      
-       <changefreq>weekly</changefreq>
-      
-       <priority>0.5</priority>
-      
-     </url>
-  
-    <url>
-      <loc>http://localhost:4000/porai/</loc>
-       <lastmod>2017-11-10T00:20:35+00:00</lastmod>
-      
-       <changefreq>weekly</changefreq>
-      
-       <priority>0.5</priority>
-      
-     </url>
-  
-    <url>
-      <loc>http://localhost:4000/publikacijos/</loc>
+      <loc>coupledialogue.com/en/media/</loc>
        <lastmod>2017-01-30T00:00:00+01:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -153,7 +103,27 @@
      </url>
   
     <url>
-      <loc>http://localhost:4000/en/retreats/</loc>
+      <loc>coupledialogue.com/medium/</loc>
+       <lastmod>2017-11-02T00:00:00+01:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>1.0</priority>
+      
+     </url>
+  
+    <url>
+      <loc>coupledialogue.com/modelis/</loc>
+       <lastmod>2017-01-30T00:00:00+01:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>0.7</priority>
+      
+     </url>
+  
+    <url>
+      <loc>coupledialogue.com/mokymai/</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -163,7 +133,7 @@
      </url>
   
     <url>
-      <loc>http://localhost:4000/sitemap.xml</loc>
+      <loc>coupledialogue.com/porai/</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -173,7 +143,17 @@
      </url>
   
     <url>
-      <loc>http://localhost:4000/en/supervision/</loc>
+      <loc>coupledialogue.com/publikacijos/</loc>
+       <lastmod>2017-01-30T00:00:00+01:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>0.7</priority>
+      
+     </url>
+  
+    <url>
+      <loc>coupledialogue.com/en/retreats/</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -183,7 +163,7 @@
      </url>
   
     <url>
-      <loc>http://localhost:4000/supervizijos/</loc>
+      <loc>coupledialogue.com/sitemap.xml</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -193,7 +173,7 @@
      </url>
   
     <url>
-      <loc>http://localhost:4000/en/training/</loc>
+      <loc>coupledialogue.com/en/supervision/</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -203,7 +183,7 @@
      </url>
   
     <url>
-      <loc>http://localhost:4000/robots.txt</loc>
+      <loc>coupledialogue.com/supervizijos/</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -213,7 +193,27 @@
      </url>
   
     <url>
-      <loc>http://localhost:4000/feed.xml</loc>
+      <loc>coupledialogue.com/en/training/</loc>
+       <lastmod>2017-11-10T00:20:35+00:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>0.5</priority>
+      
+     </url>
+  
+    <url>
+      <loc>coupledialogue.com/robots.txt</loc>
+       <lastmod>2017-11-10T00:20:35+00:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>0.5</priority>
+      
+     </url>
+  
+    <url>
+      <loc>coupledialogue.com/feed.xml</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
